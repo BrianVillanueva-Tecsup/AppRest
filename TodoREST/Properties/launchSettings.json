@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TodoREST": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
